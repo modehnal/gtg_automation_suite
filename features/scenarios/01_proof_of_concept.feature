@@ -24,7 +24,7 @@ Feature: Proof of concept
 
   @test_3
   Scenario: test_3 description string
-    * Start application "gtg" via command "flatpak run org.gnome.GTG"  in "session"
+    * Start application "gtg" via command "flatpak run org.gnome.GTG" in "session"
     * Key combo: "<Super><Up>"
     * Left click "Start Tomorrow" "push button"
 
